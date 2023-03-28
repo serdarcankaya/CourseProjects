@@ -10,7 +10,7 @@ Project W1P1
 	3.If password wrong 3 times then shut down program
 
 Project W1E1
-1. Input control for numaric input on int datatype
+	1. Input control for numaric input on int datatype
 */
 
 int main()
